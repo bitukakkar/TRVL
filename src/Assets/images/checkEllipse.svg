@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>Ellipse 16-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f6f9f9;stroke: #21d1cc;stroke-width: 2 } 
+		.shp1 { fill: none;stroke: #21d1cc;stroke-linecap:round;stroke-linejoin:round;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="shp0" d="M50 99C22.9 99 1 77.1 1 50C1 22.9 22.9 1 50 1C77.1 1 99 22.9 99 50C99 77.1 77.1 99 50 99Z" />
+	<g id="Folder 1">
+		<path id="Layer" class="shp1" d="M66.67 48.47L66.67 50C66.67 53.59 65.5 57.09 63.35 59.97C61.2 62.85 58.17 64.95 54.73 65.97C51.28 66.99 47.6 66.87 44.22 65.62C40.85 64.38 37.98 62.08 36.02 59.06C34.06 56.05 33.13 52.48 33.37 48.89C33.61 45.31 35 41.89 37.33 39.16C39.67 36.43 42.82 34.53 46.33 33.73C49.83 32.94 53.5 33.3 56.78 34.77" />
+		<path id="Layer" class="shp1" d="M66.67 36.67L50 53.35L45 48.35" />
+	</g>
+</svg>

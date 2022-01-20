@@ -1,0 +1,53 @@
+/* .input-range__label {
+  display: none !important;
+} */
+/* .input-range__label  {
+  display: none !important;
+} */
+
+.input-range__label--min {
+  display: none !important;
+}
+.input-range__label--max {
+  display: none !important;
+}
+
+.input-range__track {
+  background: #0f1920;
+}
+
+.input-range__track--active {
+  background: #21d1cc !important;
+}
+
+.input-range__slider {
+  background: #21d1cc !important;
+  border-color: #21d1cc !important;
+}
+
+.input-range__label-container {
+  font-family: "Inter";
+  font-weight: 400;
+}
+
+/* material ui dropdown */
+.MuiNativeSelect-select.MuiNativeSelect-select {
+  font-size: 14px !important;
+  font-family: "Inter";
+  font-weight: 600;
+}
+.MuiInput-underline:after,
+.MuiInput-underline:before {
+  border-bottom: none !important;
+}
+
+.MuiNativeSelect-select.MuiNativeSelect-select {
+  height: 40px !important;
+}
+
+.MuiNativeSelect-select:focus {
+  background-color: transparent !important;
+}
+.hotellisting .MuiOutlinedInput-input {
+  background: #fff;
+}

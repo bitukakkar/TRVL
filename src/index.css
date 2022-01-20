@@ -1,0 +1,180 @@
+@font-face {
+  font-family: 'GTWalsheim';
+  src: url(./Assets/Fonts/gt-walsheim-regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  src: url(./Assets/Fonts/gt-walsheim-medium.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  src: url(./Assets/Fonts/gt-walsheim-bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  src: url(./Assets/Fonts/gt-walsheim-light.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-Medium.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-ExtraBold.ttf) format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-Bold.ttf) format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./Assets/Fonts/Inter-Light.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Medium.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url(./Assets/Fonts/HelveticaNeue-Bold.otf) format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter';
+  font-weight: 400;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.MuiScopedCssBaseline-root {
+  font-family: 'Inter';
+  font-weight: 400;
+  background-color: transparent !important;
+}
+
+#root {
+  height: 100%;
+  z-index: 1;
+  position: relative;
+  font-size: 62.5%;
+}
+
+/* .css-2b097c-container > div {
+  border-radius: 6px;
+  min-height: 48px;
+  border: 1.5px solid rgba(55, 65, 106, 0.2);
+} */
+.css-2b097c-container .css-1uccc91-singleValue {
+  color: #1c232b;
+}
+table tr:nth-child(1) td:first-child {
+  border-radius: 20px 0px 0px 0px;
+}
+table tr:last-child td:last-child {
+  border-radius: 0px 0px 20px 0px;
+}
+
+table tr:nth-child(1) td:last-child {
+  border-radius: 0px 20px 0px 0px;
+}
+.makeStyles-landing_block-44 .MuiGrid-container {
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+.makeStyles-landing_block-44 .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+  padding: 0;
+}
+body {
+  position: relative;
+  z-index: 1;
+  background: #ecf4f4;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.makeStyles-Nftblock-241 .MuiGrid-spacing-xs-2 {
+  margin: -10px;
+}
+.makeStyles-Nftblock-241 .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+  padding: 10px;
+}
+.MuiBox-root {
+  position: relative;
+}
+.css-1wa3eu0-placeholder {
+  color: #1c232b !important;
+}
+.RootContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.MuiSelect-select:focus {
+  background-color: transparent !important;
+}

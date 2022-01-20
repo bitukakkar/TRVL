@@ -1,0 +1,9 @@
+.hotellisting .MuiTextField-root .MuiOutlinedInput-notchedOutline {
+  border: none;
+  outline: none;
+  border-color: transparent;
+}
+.hotellisting #google-map-demo,
+.hotellisting .MuiAutocomplete-endAdornment {
+  /* margin-top: 10px; */
+}

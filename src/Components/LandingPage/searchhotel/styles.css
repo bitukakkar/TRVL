@@ -1,0 +1,44 @@
+/*
+ Search hotel form css
+ */
+
+.searchhotelsection .MuiAppBar-colorDefault {
+  background: none;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.searchhotelsection .MuiAppBar-root {
+  width: auto;
+}
+.searchhotelsection .MuiPaper-elevation4 {
+  box-shadow: none;
+}
+.searchhotelsection .MuiTab-textColorPrimary.Mui-selected {
+  color: #fff;
+  background: #ec5a37;
+  text-transform: capitalize;
+}
+.searchhotelsection .MuiTab-textColorPrimary {
+  color: #000;
+  text-transform: capitalize;
+  background: #fff;
+}
+
+.searchhotelsection .MuiTab-labelIcon {
+  min-height: 50px;
+  padding: 5px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.searchhotelsection .MuiTab-root {
+  min-width: 200px;
+}
+.searchhotelsection .MuiTab-wrapper {
+  display: block;
+}
+.searchhotelsection .PrivateTabIndicator-colorPrimary-65 {
+  background-color: transparent;
+}
+.searchhotelsection .MuiTabs-indicator {
+  background-color: #ec5a37;
+}

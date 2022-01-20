@@ -1,0 +1,40 @@
+.digital-agent .MuiBox-root {
+  margin-bottom: 45px;
+}
+.digital-agent .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  width: 227px;
+  height: auto;
+  font-family: 'IBMPlexSans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  color: #21d1cc;
+  text-transform: inherit;
+  white-space: inherit;
+  letter-spacing: inherit;
+}
+.digital-agent .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  width: 227px;
+  height: auto;
+  font-family: 'IBMPlexSans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  color: #37416a;
+  text-transform: inherit;
+  white-space: inherit;
+  letter-spacing: inherit;
+  padding-bottom: 17px;
+}
+.digital-agent .css-1aquho2-MuiTabs-indicator {
+  background-color: #21d1cc;
+}
+.digital-agent .MuiTabs-flexContainer {
+  border-bottom: solid 2px #a7cbd2;
+}

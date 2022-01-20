@@ -1,0 +1,24 @@
+/* slick css */
+.slick-dots {
+  top: 233px;
+}
+.slick-dots li button:before {
+  color: white !important;
+}
+
+.slick-list {
+  border-radius: 12px !important;
+}
+
+.slick-dots li button:before {
+  font-size: 10px !important;
+}
+
+.slick-dots li {
+  margin: 0 !important;
+  width: 17px !important;
+}
+.MuiScopedCssBaseline-root {
+  float: left;
+  width: 100%;
+}

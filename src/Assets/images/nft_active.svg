@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>nft_inactive-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #21d1cc } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M19.39 3.57L30 3.57L30 30L10.61 30L10.61 26.43L0 26.43L0 0L19.39 0L19.39 3.57ZM19.39 5.33L19.39 7.09L26.43 7.09L26.43 26.43L12.36 26.43L12.36 28.24L28.24 28.24L28.24 5.33L19.39 5.33ZM20.64 24.67L24.67 24.67L24.67 20.64L20.64 24.67ZM24.67 10.09L19.39 15.36L19.39 18.15L24.67 12.88L24.67 10.09ZM23.42 8.85L19.39 8.85L19.39 12.88L23.42 8.85ZM1.76 24.67L17.64 24.67L17.64 1.76L1.76 1.76L1.76 24.67ZM24.67 15.36L19.39 20.64L19.39 23.42L24.67 18.15L24.67 15.36Z" />
+	<path id="Layer" class="shp0" d="M3.57 3.57L5.33 3.57L5.33 7.09L3.57 7.09L3.57 3.57Z" />
+	<path id="Layer" class="shp0" d="M14.12 19.39L15.88 19.39L15.88 22.91L14.12 22.91L14.12 19.39Z" />
+</svg>

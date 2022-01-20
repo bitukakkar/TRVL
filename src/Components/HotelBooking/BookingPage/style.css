@@ -1,0 +1,58 @@
+.css-yk16xz-control,
+.css-1pahdxg-control {
+  height: 55px;
+  margin: 0;
+  margin-top: 10px;
+  border-radius: 40px !important;
+  padding: 10px 20px 16px 15px;
+}
+
+.css-1pahdxg-control:hover {
+  /* border-color: red !important; */
+}
+.css-1pahdxg-control:active {
+  /* border-color: transparent !important; */
+}
+.css-1hb7zxy-IndicatorsContainer span {
+  display: none !important;
+}
+.css-tlfecz-indicatorContainer svg {
+  fill: #000;
+}
+.css-tlfecz-indicatorContainer svg:hover {
+  fill: rgba(0, 0, 0, 0.5);
+}
+
+#detailSection .MuiFormControlLabel-root {
+  /* margin-right: 10px !important;
+  margin-left: -10.1px !important; */
+}
+
+@media only screen and (max-width: 768px) {
+  #detailSection .MuiFormControlLabel-root {
+    margin-right: 0px !important;
+    height: 20px;
+  }
+}
+
+/* slick css */
+.imgSliderInBookingPage .slick-dots {
+  top: 172px;
+}
+.slick-dots li button:before {
+  color: #fff !important;
+}
+
+.slick-list {
+  border-radius: 12px !important;
+}
+
+.slick-dots li button:before {
+  font-size: 10px !important;
+}
+
+.slick-dots li {
+  margin: 0 !important;
+  width: 16px !important;
+  border-radius: 200px;
+}

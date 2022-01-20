@@ -1,0 +1,42 @@
+.middleManbg {
+  position: relative;
+}
+.middleManbg::before {
+  background-image: url("../../../Assets/images/middlebg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+  height: 895px;
+  width: 100%;
+  max-width: 800px;
+  padding: 30px;
+  position: absolute;
+  content: " ";
+  right: 0;
+  top: -235px;
+}
+.digitalagentbg {
+  position: relative;
+}
+.digitalagentbg::before {
+  background-image: url("../../../Assets/images/agentbg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+  height: 1030px;
+  width: 100%;
+  max-width: 800px;
+  padding: 30px;
+  position: absolute;
+  content: " ";
+  top: -256px;
+}
+
+@media only screen and (max-width: 560px) {
+  .digitalagentbg::before {
+    display: none;
+  }
+  .middleManbg::before {
+    display: none;
+  }
+}
